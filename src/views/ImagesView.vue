@@ -9,5 +9,8 @@
 </script>
 
 <template>
-    <Images/>
+    <div>
+        <h1>Foto's</h1> 
+        <Images/>
+    </div>
 </template>

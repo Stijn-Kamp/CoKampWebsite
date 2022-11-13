@@ -1,21 +1,21 @@
 <script>
-    import TitleBar from "@components/TitleBar.vue";
+    import TitleView from "@views/TitleView.vue"
     import InfoView from "@views/InfoView.vue";
     import ImagesView from "@views/ImagesView.vue";
     import ContactView from "@views/ContactView.vue";
 
     export default {
     components: {
-        TitleBar,
+        TitleView,
         InfoView,
         ImagesView,
-        ContactView
+        ContactView,
     }
 }
 </script>
 
 <template>
-    <TitleBar/>
+    <TitleView/>
     <InfoView id="Info"/>
     <ImagesView id="Images"/>
     <ContactView id="Contact"/>

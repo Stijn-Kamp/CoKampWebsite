@@ -60,7 +60,7 @@
 }
 
 body {
-  padding-top: 70px;
+  padding-top: 50px;
   min-height: 100vh;
   color: var(--color-text);
   background: var(--color-background);

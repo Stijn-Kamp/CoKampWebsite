@@ -1,20 +1,53 @@
+<script>
+    import EmailIcon from "@components/icons/IconEmail.vue";
+    import PhoneIcon from "@components/icons/IconPhone.vue";
+    import AddressIcon from "@components/icons/IconAddress.vue";
+
+    export default {
+        components: {
+            EmailIcon,
+            PhoneIcon,
+            AddressIcon
+        }
+    }
+</script>
+
+
 <template>
-    <header class="contact">
-      <div class="container h-100">
-        <div class="row h-100 align-items-center">
-          <div class="col-20 text-center">
-            <h1 class="jumbotron">Co Kamp</h1>
-            <h1>Dienstverlening in de bouw</h1>
-          </div>
+    <div class="contact bg-light bg-primary text-white">
+        <div class="d-flex justify-content-around">
+            <div>
+                <AddressIcon class="icon"/>
+                <p>Raadhuisstraat 9</p>
+                <p>1687 AH</p>
+                <p>Wognum</p>
+            </div>
+            <div>
+                <PhoneIcon class="icon"/>
+                <p><a href="tel:+31613654646">+316 136 546 46</a></p>
+                <p><a href="tel:0229573470">0229 573 470</a></p>
+            </div>
+            <div>
+                <EmailIcon class="icon"/>
+                <DocumentationIcon />
+                <p><a href="mailto:cokamp@gmail.com">CoKamp@gmail.com</a></p>
+            </div>
         </div>
-      </div>
-    </header>
+    </div>
 </template>
+
 
 <style>
     .contact {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    }
+
+    .icon {
+        width: 75px;
+        height: 75px;
+        margin: 25px;
+        fill: white;
     }
 </style>

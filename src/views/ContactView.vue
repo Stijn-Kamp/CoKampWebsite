@@ -14,7 +14,7 @@
 
 
 <template>
-    <div class="contact bg-light bg-primary text-white">
+    <div class="contact bg-light bg-primary text-white py-5">
         <div class="d-flex justify-content-around">
             <div>
                 <AddressIcon class="icon"/>

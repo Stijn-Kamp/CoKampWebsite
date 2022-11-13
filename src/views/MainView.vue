@@ -23,7 +23,7 @@
 
 <style>
     #Info{
-        padding: 50px;
+        padding: 100px;
     }
 
     #Contact{
@@ -31,7 +31,7 @@
     }
 
     #Images{
-        padding: 50px;
+        padding: 100px;
     }
 </style>
 

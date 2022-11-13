@@ -1,7 +1,8 @@
 <template>
     <div>
         <div class="bg-primary bg-opacity-10 rounded p-4">
-            <p>Co kamp Dienstverlening in de bouw verzorgt voor u:</p>
+            <h2>Over Co Kamp Dienstverlening in de bouw</h2>
+            <p>Wij verzorgen voor u:</p>
             <ul>
                 <li>Verbouwingen</li>
                 <li>Carports</li>
@@ -10,6 +11,7 @@
                 <li>Schuren</li>
                 <li>Dierenverblijven</li>
                 <li>Schuttingen</li>
+                <li>Enzovoort</li>
             </ul>
             <p>Traditioneel op maat gemaakt in in iedere denkbare vorm of uitvoering.</p>
             <p>Ook voor uw ontwerp en eventuele bouwaanvraag.</p>

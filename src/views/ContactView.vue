@@ -16,21 +16,26 @@
 <template>
     <div class="contact bg-light bg-primary text-white py-5">
         <div class="d-flex justify-content-around">
-            <div>
+            <div class="text-center">
                 <AddressIcon class="icon"/>
-                <p>Raadhuisstraat 9</p>
-                <p>1687 AH</p>
-                <p>Wognum</p>
+                <div>
+                    <p>Raadhuisstraat 9</p>
+                    <p>1687 AH</p>
+                    <p>Wognum</p>
+                </div>
             </div>
-            <div>
+            <div class="text-center">
                 <PhoneIcon class="icon"/>
-                <p><a class="link" href="tel:+31613654646">+316 136 546 46</a></p>
-                <p><a class="link" href="tel:0229573470">0229 573 470</a></p>
+                <div>
+                    <p><a class="link" href="tel:+31613654646">+316 136 546 46</a></p>
+                    <p><a class="link" href="tel:0229573470">0229 573 470</a></p>
+                </div>
             </div>
-            <div>
+            <div class="text-center">
                 <EmailIcon class="icon"/>
-                <DocumentationIcon />
-                <p><a class="link" href="mailto:cokamp@gmail.com">CoKamp@gmail.com</a></p>
+                <div>
+                    <p><a class="link" href="mailto:cokamp@gmail.com">CoKamp@gmail.com</a></p>
+                </div>
             </div>
         </div>
     </div>

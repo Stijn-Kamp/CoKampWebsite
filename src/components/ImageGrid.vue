@@ -1,5 +1,5 @@
 <template>
-  <div class="lightbox m-3 mt-5 p-3 bg-primary bg-opacity-10 rounded">
+  <div class="lightbox p-3 bg-primary bg-opacity-10 rounded">
     <div class="row">
       <div class="col-lg-6">
         <img

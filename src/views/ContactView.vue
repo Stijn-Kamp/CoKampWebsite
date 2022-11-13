@@ -24,13 +24,13 @@
             </div>
             <div>
                 <PhoneIcon class="icon"/>
-                <p><a href="tel:+31613654646">+316 136 546 46</a></p>
-                <p><a href="tel:0229573470">0229 573 470</a></p>
+                <p><a class="link" href="tel:+31613654646">+316 136 546 46</a></p>
+                <p><a class="link" href="tel:0229573470">0229 573 470</a></p>
             </div>
             <div>
                 <EmailIcon class="icon"/>
                 <DocumentationIcon />
-                <p><a href="mailto:cokamp@gmail.com">CoKamp@gmail.com</a></p>
+                <p><a class="link" href="mailto:cokamp@gmail.com">CoKamp@gmail.com</a></p>
             </div>
         </div>
     </div>
@@ -47,7 +47,11 @@
     .icon {
         width: 75px;
         height: 75px;
-        margin: 25px;
+        margin: 15px;
         fill: white;
+    }
+
+    .link {
+        color: white;
     }
 </style>

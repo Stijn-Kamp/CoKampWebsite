@@ -9,7 +9,7 @@
 </script>
 
 <template>
-    <div>
+    <div class="m-5">
         <h1>Foto's</h1> 
         <Images/>
     </div>

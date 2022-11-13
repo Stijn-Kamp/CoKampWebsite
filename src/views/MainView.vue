@@ -21,3 +21,17 @@
     <ContactView id="Contact"/>
 </template>
 
+<style>
+    #Info{
+        padding: 50px;
+    }
+
+    #Contact{
+        padding-top: 50px;
+    }
+
+    #Images{
+        padding: 50px;
+    }
+</style>
+

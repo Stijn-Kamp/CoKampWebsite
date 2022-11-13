@@ -10,7 +10,6 @@
 
 <template>
     <div>
-        <BannerImage/>
         <TitleBar/>
     </div>
 </template>

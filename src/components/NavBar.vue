@@ -8,10 +8,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="#Info">Info</a>
+                    <a class="nav-link" href="#Info">Over ons</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#Images">Foto's</a>
+                    <a class="nav-link" href="#Images">Projecten</a>
                 </li>                
                 <li class="nav-item">
                     <a class="nav-link" href="#Contact">Contact</a>

@@ -1,12 +1,15 @@
 // Color palette #2a191b #d3b488 #120507 #be9b7c #c48460
+// Grey palette #2b2d42 #8d99ae #edf2f4 #ef233c #d90429
+
 
 // Your variable overrides
-$body-bg:     #e7cfb4;
-$body-color:  #120507;
+$body-bg:     #798190;
+$body-color:  #1a2139;
 
 $theme-colors: (
-  "primary":  #322525,
-  "secondary":#9a6449,
+  "primary":  #333e5b,
+  "secondary":#f73a18,
+  "tertiary": #9E7676,
 );
 
 // Bootstrap and its default variables

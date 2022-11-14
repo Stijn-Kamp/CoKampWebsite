@@ -14,8 +14,10 @@
 
 
 <template>
-    <div class="contact bg-light bg-primary text-white py-5">
-        <div class="d-flex justify-content-around">
+    <div class="contact text-center bg-light bg-primary text-white py-5">
+        <h1>Contact</h1>
+        <p>Voor al uw vragen kunt u contact met ons opnemen via onderstaande gegevens.</p>
+        <div class="d-flex justify-content-around pt-5">
             <div class="text-center">
                 <AddressIcon class="icon"/>
                 <div>
@@ -27,7 +29,7 @@
             <div class="text-center">
                 <PhoneIcon class="icon"/>
                 <div>
-                    <p><a class="link" href="tel:+31613654646">+316 136 546 46</a></p>
+                    <p><a class="link" href="tel:+31613654646">+31 (0)6 136 546 46</a></p>
                     <p><a class="link" href="tel:0229573470">0229 573 470</a></p>
                 </div>
             </div>

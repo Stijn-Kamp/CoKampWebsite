@@ -9,8 +9,8 @@
 </script>
 
 <template>
-    <div>
-        <h1>Foto's</h1> 
+    <div class="bg-secondary">
+        <h1>Voorgaande projecten</h1> 
         <Images/>
     </div>
 </template>

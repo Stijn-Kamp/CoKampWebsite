@@ -10,7 +10,9 @@
 
 <template>
     <div>
-        <h1>Voorgaande projecten</h1> 
-        <Images/>
+        <div class="p-4 shadow rounded bg-primary bg-opacity-10">
+            <h1>Voorgaande projecten</h1> 
+            <Images/>
+        </div>
     </div>
 </template>

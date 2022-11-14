@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-secondary text-white">
+    <div>
         <div class="px-4 row d-flex justify-content-center">
             <h2 class="col-md-6">Wat kunnen we voor u betekenen?</h2>
             <p class="col-md-6">Co Kamp Dienstverlening in de bouw verzorgt voor u:</p>

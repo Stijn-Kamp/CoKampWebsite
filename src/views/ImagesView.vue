@@ -9,7 +9,7 @@
 </script>
 
 <template>
-    <div class="bg-secondary">
+    <div class="bg-primary bg-opacity-10">
         <h1>Voorgaande projecten</h1> 
         <Images/>
     </div>

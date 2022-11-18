@@ -1,15 +1,15 @@
 <script>
-    import TitleBar from "@components/TitleBar.vue";
+import TitleBar from "@components/TitleBar.vue";
 
-    export default {
-        components: {
-            TitleBar
-        }
-    }
+export default {
+  components: {
+    TitleBar,
+  },
+};
 </script>
 
 <template>
-    <div>
-        <TitleBar/>
-    </div>
+  <div>
+    <TitleBar />
+  </div>
 </template>

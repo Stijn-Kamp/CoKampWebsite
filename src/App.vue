@@ -1,11 +1,11 @@
 <script setup>
-    import NavBar from "@components/NavBar.vue";
-    import MainPage from "@views/MainView.vue";
+import NavBar from "@components/NavBar.vue";
+import MainPage from "@views/MainView.vue";
 </script>
 
 <template>
   <header>
-    <NavBar/>
+    <NavBar />
   </header>
-  <MainPage/>
+  <MainPage />
 </template>

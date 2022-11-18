@@ -34,8 +34,8 @@
           src="@assets/images/examples/example8.jpg"
           class="w-100 mb-2 mb-md-4 shadow rounded"
         />
-    </div>
-    <div class="col-lg-6">
+      </div>
+      <div class="col-lg-6">
         <img
           src="@assets/images/examples/example9.jpg"
           class="w-100 mb-2 mb-md-4 shadow rounded"
@@ -43,7 +43,7 @@
         <img
           src="@assets/images/examples/example10.jpg"
           class="w-100 mb-2 mb-md-4 shadow rounded"
-        />        
+        />
         <img
           src="@assets/images/examples/example11.jpg"
           class="w-100 mb-2 mb-md-4 shadow rounded"

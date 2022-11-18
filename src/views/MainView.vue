@@ -25,6 +25,7 @@ export default {
 #Info {
   padding: 100px;
   margin-top: -300px;
+  margin-bottom: -100px;
 }
 
 #Contact {

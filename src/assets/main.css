@@ -1,1 +1,6 @@
 @import '@assets/base.css';
+@import url(https://fonts.googleapis.com/css?family=Piazzolla);
+
+body {
+    font-family: 'Piazzolla' !important;
+}

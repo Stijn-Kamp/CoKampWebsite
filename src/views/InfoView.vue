@@ -5,7 +5,7 @@
         <div class="p-4 px-5 d-flex row justify-content-center">
           <h2>Wat kunnen we voor u betekenen?</h2>
           <p>Co Kamp Dienstverlening in de bouw verzorgt voor u:</p>
-          <ul>
+          <ul class="checkmark">
             <li>Verbouwingen</li>
             <li>Carports</li>
             <li>Veranda's</li>
@@ -24,3 +24,13 @@
     </div>
   </div>
 </template>
+
+<style>
+.checkmark {
+  list-style: none;
+}
+
+.checkmark li:before {
+  content: '✓ ';
+}
+</style>

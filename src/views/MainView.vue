@@ -15,7 +15,7 @@ export default {
 </script>
 
 <template>
-  <TitleView />
+  <TitleView id="Title" />
   <InfoView id="Info" />
   <ImagesView id="Images" />
   <ContactView id="Contact" />
@@ -24,6 +24,7 @@ export default {
 <style>
 #Info {
   padding: 100px;
+  margin-top: -300px;
 }
 
 #Contact {

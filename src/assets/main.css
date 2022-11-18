@@ -1,6 +1,11 @@
 @import '@assets/base.css';
 @import url(https://fonts.googleapis.com/css?family=Piazzolla);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
 
-body {
-    font-family: 'Piazzolla' !important;
+h1 {
+    font-family: 'Merriweather';
+}
+
+p {
+    font-family: 'Piazzolla';
 }

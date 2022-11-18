@@ -3,7 +3,7 @@
     <div class="bg-white rounded">
       <div class="rounded bg-primary bg-opacity-10 shadow">
         <div class="p-4 px-5 d-flex row justify-content-center">
-          <h2>Wat kunnen we voor u betekenen?</h2>
+          <h1>Wat kunnen we voor u betekenen?</h1>
           <p>Co Kamp Dienstverlening in de bouw verzorgt voor u:</p>
           <ul class="checkmark">
             <li>Verbouwingen</li>
@@ -31,6 +31,6 @@
 }
 
 .checkmark li:before {
-  content: '✓ ';
+  content: "✓ ";
 }
 </style>

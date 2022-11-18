@@ -25,7 +25,7 @@ export default {
   height: 500px;
   min-height: 250px;
   /* https://www.shutterstock.com/nl/image-photo/collection-vintage-woodworking-tools-on-rough-727422358?utm_campaign=image&utm_medium=googleimages&utm_source=iptc */
-  background-image: url("@assets/images/ToolShed.jpg"); 
+  background-image: url("@assets/images/ToolShed.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
